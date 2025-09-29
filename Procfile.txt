@@ -1,1 +1,1 @@
-worker: python molly_bot.py
+worker: python molly_bot.com
